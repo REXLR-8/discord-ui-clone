@@ -1,0 +1,4 @@
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-detectable=false
+node_modules/* linguist-vendored
