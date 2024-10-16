@@ -4,19 +4,19 @@
 
 @font-face {
   font-family: abcgintonord;
-  src: url(../media/65273da62cbf8363b445b021_abcgintonord-800-extrabold.woff2);
+  src: url(/assets/65273da62cbf8363b445b021_abcgintonord-800-extrabold.woff2);
 }
 @font-face {
   font-family: ggsans;
-  src: url(../media/652736292cbf8363b43d077a_ggsans-Normal.woff2);
+  src: url(/assets/652736292cbf8363b43d077a_ggsans-Normal.woff2);
 }
 @font-face {
   font-family: ggsansm;
-  src: url(../media/652737c319ba7da75394c4cb_ggsans-Medium.woff2);
+  src: url(/assets/652737c319ba7da75394c4cb_ggsans-Medium.woff2);
 }
 @font-face {
   font-family: ggsanssb;
-  src: url(../media/652737c319ba7da75394c4dc_ggsans-Semibold.woff2);
+  src: url(/assets/652737c319ba7da75394c4dc_ggsans-Semibold.woff2);
 }
 @keyframes move {
   0% {
